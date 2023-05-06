@@ -1,0 +1,27 @@
+.search-Container {
+  align-items: center;
+  text-align: center;
+  margin: 60px 0;
+}
+
+.search-input {
+  border: 1px solid #0e0d0d;
+  border-radius: 10px;
+  outline: none;
+  width: 40%;
+  padding: 12px;
+  background-color: #0e0d0d;
+  color: white;
+  font-weight: bolder;
+}
+
+@media only screen and (max-width: 650px) {
+  .search-Container {
+    margin: 30px 0;
+  }
+
+  .search-input {
+    width: 70%;
+    padding: 10px;
+  }
+}

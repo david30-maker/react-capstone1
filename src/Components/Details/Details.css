@@ -1,0 +1,74 @@
+.detail-Container {
+  color: yellow;
+  background-image: url("../../Assets/coin34.bg.jpg");
+}
+
+.imag-Container {
+  display: flex;
+  justify-content: space-between;
+  padding: 50px;
+  background-color: #0d1e58c4;
+}
+
+.ind-Img {
+  width: 120px;
+  height: 120px;
+}
+
+.detail-Title {
+  background-color: #273770f3;
+  padding: 8px 30px;
+}
+
+.inf {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px 30px;
+}
+
+.inf:nth-child(even) {
+  background-color: #87a7f8;
+}
+
+.inf:nth-child(odd) {
+  background-color: #2a3557ef;
+}
+
+.inf-Link {
+  display: flex;
+  justify-content: space-between;
+  list-style: none;
+  background-color: #28304def;
+  padding: 20px 30px;
+}
+
+.inf-Link:nth-child(even) {
+  background-color: #182555f3;
+}
+
+.coin-inf {
+  display: flex;
+  justify-content: space-between;
+}
+
+@media only screen and (max-width: 650px) {
+  .ind-Img {
+    width: 100px;
+    height: 100px;
+  }
+
+  .inf,
+  .inf-Link {
+    padding: 15px;
+    font-size: 14px;
+  }
+
+  .detail-Title {
+    padding: 4px 116px;
+    font-size: 21px;
+  }
+
+  .img-Container {
+    padding: 28px;
+  }
+}
