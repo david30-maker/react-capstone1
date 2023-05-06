@@ -19,11 +19,11 @@
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
-# 📖Cryptocurrency Data Explorer
+# 📖Cryptocurrency Data
 
 <a name="about-project"></a>
 
-# Cryptocurrency Data Explorer
+# Cryptocurrency Data
 
 The crypto currency data explorer app is an application that allows users to search out any digital currencies. With real-time updates and advanced analytical tools, it provides an understandable view of the cryptocurrency market, allowing users to make an informed decisions about their investments.
 
