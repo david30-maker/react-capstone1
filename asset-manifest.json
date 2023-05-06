@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-capstone1/static/css/main.c7c29bdd.css",
+    "main.js": "/react-capstone1/static/js/main.7453e151.js",
+    "static/media/coin34.bg.jpg": "/react-capstone1/static/media/coin34.bg.2e058dae040057c05e6c.jpg",
+    "index.html": "/react-capstone1/index.html",
+    "main.c7c29bdd.css.map": "/react-capstone1/static/css/main.c7c29bdd.css.map",
+    "main.7453e151.js.map": "/react-capstone1/static/js/main.7453e151.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c7c29bdd.css",
+    "static/js/main.7453e151.js"
+  ]
+}
