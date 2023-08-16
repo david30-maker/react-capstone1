@@ -25,7 +25,7 @@
 
 # Cryptocurrency Data
 
-The crypto currency data explorer app is an application that allows users to search out any digital currencies. With real-time updates and advanced analytical tools, it provides an understandable view of the cryptocurrency market, allowing users to make an informed decisions about their investments.
+The cryptocurrency data Explorer app is an application that allows users to search out any digital currencies. With real-time updates and advanced analytical tools, it provides an understandable view of the cryptocurrency market, allowing users to make informed decisions about their investments.
 
 [PROJECT DOCUMENTATION](https://www.loom.com/share/8d08e19da905410397bd2d9822551de6)
 
@@ -33,6 +33,7 @@ The crypto currency data explorer app is an application that allows users to sea
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
+- <p align="right">(<a href="[https://david30-maker.github.io/react-capstone1/">Live Demo</a>)</p>
 - [https://david30-maker.github.io/react-capstone1/]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
